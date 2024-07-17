@@ -1,3 +1,6 @@
+# Merge Two sorted arrays in simple way
+# O(nlogn) Runtime
+
 arr1 = [2, 3, 4, 5]
 arr2 = [6, 7, 8, 9]
 
